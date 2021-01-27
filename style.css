@@ -1,0 +1,33 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    margin-top: 100px;
+}
+
+.write{
+    color: rgb(161, 158, 158);
+    border: 2px solid rgb(161, 158, 158);
+    border-radius: 30px;
+    padding: 5px 60px 5px 60px;
+    margin: 5px;
+}
+
+.book{
+    background-color: rgb(120, 231, 120);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 60px 5px 60px;
+    margin: 5px;
+}
+
+.start{
+    background-color: rgb(24, 74, 212);
+    border: 2px solid rgb(24, 74, 212);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 60px 5px 60px;
+    margin: 5px;
+    font-weight: bolder;
+}
